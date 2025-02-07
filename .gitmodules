@@ -10,3 +10,6 @@
 [submodule "sigutils"]
 	path = sigutils
 	url = https://github.com/simurg1728/sigutils.git
+[submodule "libthirdparty"]
+	path = libthirdparty
+	url = https://github.com/simurg1728/libthirdparty.git
