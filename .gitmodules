@@ -1,0 +1,12 @@
+[submodule "SigDigger"]
+	path = SigDigger
+	url = https://github.com/simurg1728/SigDigger.git
+[submodule "suscan"]
+	path = suscan
+	url = https://github.com/simurg1728/suscan.git
+[submodule "SuWidgets"]
+	path = SuWidgets
+	url = https://github.com/simurg1728/SuWidgets.git
+[submodule "sigutils"]
+	path = sigutils
+	url = https://github.com/simurg1728/sigutils.git
