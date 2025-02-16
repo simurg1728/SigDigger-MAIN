@@ -10,6 +10,7 @@ This project aims to provide a easy-to-build Qt project on Windows using Qt Crea
 * Windows dependencies, including the binaries, are added in a project named libthirdparty.
 
 # TODO
+* Fix SoapySDR connection issue
 * Fix volk linking issue
 * Write test for `suscli_devserv_permission_match(const char *expr)` in suscan
 * Add unit tests with Google test
