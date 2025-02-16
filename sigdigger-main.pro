@@ -1,4 +1,9 @@
- TEMPLATE = subdirs
- 
-  SUBDIRS = \
-            $$PWD/sigutils
+TEMPLATE = subdirs
+
+CONFIG += ordered
+
+SUBDIRS = \
+        sigutils \
+        suscan \
+        SuWidgets \
+        SigDigger
