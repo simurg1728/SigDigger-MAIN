@@ -11,10 +11,10 @@ This project aims to provide a easy-to-build Qt project on Windows using Qt Crea
 
 # TODO
 * Fix SoapySDR connection issue
-* Fix volk linking issue
 * Write test for `suscli_devserv_permission_match(const char *expr)` in suscan
 * Add unit tests with Google test
 * Add other optional dependencies to libthirdparty
+* Use the dependency scripts already written
 
 # Build
 
